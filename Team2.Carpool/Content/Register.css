@@ -1,0 +1,12 @@
+﻿body { width: 530px; height: 320px; border: 1px solid blue; position: relative; top: 200px; left: 450px; }
+#top { font-family: 'Microsoft YaHei'; font-size: 16px; color: #648def; }
+#ControlBtn { margin-left: 40px; }
+.Cbtn { height: 30px; width: 70px; font-family: 'Microsoft YaHei'; font-size: 16px; background-color: #648def; color: white; }
+#ControlBtn #btnRegister { margin-left: 30px; }
+#l2 { width: 450px; background-color: black; }
+.main { margin-left: 80px; }
+#getCodeMessage { color: blue; }
+#btnRe { margin-left: 120px; margin-top: 30px; }
+#btnRe #Register { font-family: 'Microsoft YaHei'; width: 150px; height: 30px; font-size: 16px; background-color: #648def; color: white; }
+#btnRe #lblProtocol { font-family: 'Microsoft YaHei'; font-size: 12px; }
+.lblMS { font-family: 'Microsoft YaHei'; font-size: 14px; }

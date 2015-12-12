@@ -1,0 +1,9 @@
+﻿ #navitop{ 
+	width:400px;
+	background-color:#7ba2d9;
+}
+#navitop ul { padding:3px;}
+#navitop ul li { 
+	float:left;
+	padding:3px;
+}

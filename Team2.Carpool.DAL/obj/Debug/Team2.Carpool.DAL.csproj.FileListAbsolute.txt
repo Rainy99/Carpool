@@ -1,0 +1,14 @@
+E:\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.csprojResolveAssemblyReference.cache
+E:\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.DAL.dll
+E:\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.DAL.pdb
+E:\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.Model.dll
+E:\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.Model.pdb
+E:\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.dll
+E:\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.pdb
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.DAL.dll
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.DAL.pdb
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.Model.dll
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\bin\Debug\Team2.Carpool.Model.pdb
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.csprojResolveAssemblyReference.cache
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.dll
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.DAL\obj\Debug\Team2.Carpool.DAL.pdb

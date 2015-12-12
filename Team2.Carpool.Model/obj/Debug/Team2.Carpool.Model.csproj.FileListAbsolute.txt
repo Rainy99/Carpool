@@ -1,0 +1,10 @@
+E:\Team2.Carpool\Team2.Carpool.Model\bin\Debug\Team2.Carpool.Model.dll
+E:\Team2.Carpool\Team2.Carpool.Model\bin\Debug\Team2.Carpool.Model.pdb
+E:\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.csprojResolveAssemblyReference.cache
+E:\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.dll
+E:\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.pdb
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.Model\bin\Debug\Team2.Carpool.Model.dll
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.Model\bin\Debug\Team2.Carpool.Model.pdb
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.csprojResolveAssemblyReference.cache
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.dll
+H:\ASP.NET\第六章\Team2.Carpool\Team2.Carpool.Model\obj\Debug\Team2.Carpool.Model.pdb
